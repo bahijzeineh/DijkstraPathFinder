@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class DijkstraPathFinder implements PathFinder
+public class DijkstraPathFinder
 {
 	private PathMap map;
 	private int[][] tcost=null;//tentative costs
